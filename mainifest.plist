@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://gtbio.io/kloan_ios_v1.0.ipa</string>
+					<string>http://47.94.4.71:9080/app/k_loan_ios.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>http://47.94.193.155/update_package/release/image.57×57.png</string>
+					<string>http://47.94.4.71:9080/app/image.57×57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>http://47.94.193.155/update_package/release/image.512×512.png</string>
+					<string>http://47.94.4.71:9080/app/image.512×512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
